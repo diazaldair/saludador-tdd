@@ -76,12 +76,12 @@
     "conclusion": "success"
   },
   {
-    "sha": "HEAD",
+    "sha": "e9eeba4a2ea9e6ba72035e9866caac9707a29e88",
     "author": "aldair",
     "commit": {
       "date": "2026-02-19T05:11:13.000Z",
       "message": "feat: agregar saludo segun la hora del dia (noche)",
-      "url": "https://github.com/diazaldair/saludador-tdd/commit/HEAD"
+      "url": "https://github.com/diazaldair/saludador-tdd/commit/e9eeba4a2ea9e6ba72035e9866caac9707a29e88"
     },
     "stats": {
       "total": 23,
@@ -91,6 +91,25 @@
     },
     "coverage": 81.25,
     "test_count": 6,
+    "failed_tests": 0,
+    "conclusion": "success"
+  },
+  {
+    "sha": "HEAD",
+    "author": "aldair",
+    "commit": {
+      "date": "2026-02-19T05:18:56.000Z",
+      "message": "feat: agregar saludo por genero",
+      "url": "https://github.com/diazaldair/saludador-tdd/commit/HEAD"
+    },
+    "stats": {
+      "total": 56,
+      "additions": 49,
+      "deletions": 7,
+      "date": "2026-02-19"
+    },
+    "coverage": 71.88,
+    "test_count": 8,
     "failed_tests": 0,
     "conclusion": "success"
   }

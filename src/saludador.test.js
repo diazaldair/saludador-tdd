@@ -17,4 +17,12 @@ it("deberia saludar segun la hora en la tarde", () => {
 it("deberia saludar segun la hora en la noche", () => {
   expect(saludar("Ana", 22)).toEqual("Buenas noches Ana");
 });
+it("deberia saludar por genero masculino en la mañana", () => {
+  expect(saludar("Juan", 9, "M")).toEqual("Buenos días Sr. Juan");
+});
+
+it("deberia saludar por genero femenino en la mañana", () => {
+  expect(saludar("Ana", 9, "F")).toEqual("Buenos días Sra. Ana");
+});
+
 });
