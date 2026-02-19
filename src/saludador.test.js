@@ -14,4 +14,7 @@ describe("Saludador", () => {
 it("deberia saludar segun la hora en la tarde", () => {
   expect(saludar("Ana", 15)).toEqual("Buenas tardes Ana");
 });
+it("deberia saludar segun la hora en la noche", () => {
+  expect(saludar("Ana", 22)).toEqual("Buenas noches Ana");
+});
 });

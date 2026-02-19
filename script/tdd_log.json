@@ -98,9 +98,31 @@
     "testId": 3
   },
   {
-    "commitId": "HEAD",
+    "commitId": "3f5e85cb01203bd10300cd2ff07d5a5d99a87eb4",
     "commitName": "feat: agregar saludo segun la hora del dia (tarde)",
     "commitTimestamp": 1771477649541,
     "testId": 3
+  },
+  {
+    "numPassedTests": 5,
+    "failedTests": 1,
+    "numTotalTests": 6,
+    "timestamp": 1771477749368,
+    "success": false,
+    "testId": 4
+  },
+  {
+    "numPassedTests": 6,
+    "failedTests": 0,
+    "numTotalTests": 6,
+    "timestamp": 1771477865305,
+    "success": true,
+    "testId": 4
+  },
+  {
+    "commitId": "HEAD",
+    "commitName": "feat: agregar saludo segun la hora del dia (noche)",
+    "commitTimestamp": 1771477875489,
+    "testId": 4
   }
 ]

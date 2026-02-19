@@ -10,6 +10,10 @@ function saludar(nombre, hora) {
       if (nombre) return "Buenas tardes " + nombre;
       return "Buenas tardes";
     }
+
+    // Noche (>= 18)
+    if (nombre) return "Buenas noches " + nombre;
+    return "Buenas noches";
   }
 
   // Funcionalidad anterior
