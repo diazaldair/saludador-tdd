@@ -54,9 +54,31 @@
     "testId": 1
   },
   {
-    "commitId": "HEAD",
+    "commitId": "e65e318871bc19912417b8a05e121cddf2ac3a3e",
     "commitName": "feat: agregar saludo personalizado por nombre",
     "commitTimestamp": 1771476859180,
     "testId": 1
+  },
+  {
+    "numPassedTests": 3,
+    "failedTests": 1,
+    "numTotalTests": 4,
+    "timestamp": 1771476973839,
+    "success": false,
+    "testId": 2
+  },
+  {
+    "numPassedTests": 4,
+    "failedTests": 0,
+    "numTotalTests": 4,
+    "timestamp": 1771477105705,
+    "success": true,
+    "testId": 2
+  },
+  {
+    "commitId": "HEAD",
+    "commitName": "feat: agregar saludo segun la hora del dia (mañana)",
+    "commitTimestamp": 1771477308053,
+    "testId": 2
   }
 ]
