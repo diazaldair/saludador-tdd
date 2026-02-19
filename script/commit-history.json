@@ -95,12 +95,12 @@
     "conclusion": "success"
   },
   {
-    "sha": "HEAD",
+    "sha": "e2b941cecc9c328a3d8bd7e6b22f89e791aeae63",
     "author": "aldair",
     "commit": {
       "date": "2026-02-19T05:18:56.000Z",
       "message": "feat: agregar saludo por genero",
-      "url": "https://github.com/diazaldair/saludador-tdd/commit/HEAD"
+      "url": "https://github.com/diazaldair/saludador-tdd/commit/e2b941cecc9c328a3d8bd7e6b22f89e791aeae63"
     },
     "stats": {
       "total": 56,
@@ -110,6 +110,25 @@
     },
     "coverage": 71.88,
     "test_count": 8,
+    "failed_tests": 0,
+    "conclusion": "success"
+  },
+  {
+    "sha": "HEAD",
+    "author": "aldair",
+    "commit": {
+      "date": "2026-02-19T05:35:37.000Z",
+      "message": "feat: agregar saludo por edad",
+      "url": "https://github.com/diazaldair/saludador-tdd/commit/HEAD"
+    },
+    "stats": {
+      "total": 129,
+      "additions": 81,
+      "deletions": 48,
+      "date": "2026-02-19"
+    },
+    "coverage": 100,
+    "test_count": 11,
     "failed_tests": 0,
     "conclusion": "success"
   }

@@ -142,9 +142,47 @@
     "testId": 5
   },
   {
-    "commitId": "HEAD",
+    "commitId": "e2b941cecc9c328a3d8bd7e6b22f89e791aeae63",
     "commitName": "feat: agregar saludo por genero",
     "commitTimestamp": 1771478339025,
     "testId": 5
+  },
+  {
+    "numPassedTests": 9,
+    "failedTests": 1,
+    "numTotalTests": 10,
+    "timestamp": 1771478424599,
+    "success": false,
+    "testId": 6
+  },
+  {
+    "numPassedTests": 8,
+    "failedTests": 2,
+    "numTotalTests": 10,
+    "timestamp": 1771478621536,
+    "success": false,
+    "testId": 6
+  },
+  {
+    "numPassedTests": 8,
+    "failedTests": 2,
+    "numTotalTests": 10,
+    "timestamp": 1771478728588,
+    "success": false,
+    "testId": 6
+  },
+  {
+    "numPassedTests": 11,
+    "failedTests": 0,
+    "numTotalTests": 11,
+    "timestamp": 1771479164258,
+    "success": true,
+    "testId": 6
+  },
+  {
+    "commitId": "HEAD",
+    "commitName": "feat: agregar saludo por edad",
+    "commitTimestamp": 1771479339687,
+    "testId": 6
   }
 ]
