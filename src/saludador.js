@@ -1,19 +1,21 @@
 function saludar(nombre, hora) {
-  // Nueva funcionalidad: saludo según hora (solo mañana por ahora)
+  // Saludo según hora
   if (typeof hora === "number") {
     if (hora < 12) {
-      if (nombre) {
-        return "Buenos días " + nombre;
-      }
+      if (nombre) return "Buenos días " + nombre;
       return "Buenos días";
+    }
+
+    if (hora < 18) {
+      if (nombre) return "Buenas tardes " + nombre;
+      return "Buenas tardes";
     }
   }
 
-  // Funcionalidad anterior (iteración 1 y 2)
+  // Funcionalidad anterior
   if (nombre) {
     return "hola " + nombre;
   }
-
   return "hola";
 }
 
